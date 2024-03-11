@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "109828133160",
+    "project_id": "flutfire-11fe6",
+    "storage_bucket": "flutfire-11fe6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109828133160:android:8f18a1c41d36658529001d",
+        "android_client_info": {
+          "package_name": "com.example.flutfire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJLNGkOT5V5v3kLf1Sg3pjVSrf6fZ36xo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
